@@ -1,0 +1,184 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a principal causa da cárie dentária?",
+      "opcoes": {
+        "A": "Placa bacteriana",
+        "B": "Alimentação ácida",
+        "C": "Uso de enxaguante bucal",
+        "D": "Genética",
+        "E": "Falta de flúor na água"
+      },
+      "resposta": "A"
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o nome do tecido que recobre a raiz do dente?",
+      "opcoes": {
+        "A": "Esmalte",
+        "B": "Dentina",
+        "C": "Polpa",
+        "D": "Cemento",
+        "E": "Gengiva"
+      },
+      "resposta": "D"
+    },
+    {
+      "id": 3,
+      "pergunta": "Que especialidade odontológica é responsável pelo tratamento de canal?",
+      "opcoes": {
+        "A": "Ortodontia",
+        "B": "Endodontia",
+        "C": "Periodontia",
+        "D": "Implantodontia",
+        "E": "Odontopediatria"
+      },
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "pergunta": "Com que frequência é recomendado visitar o dentista para check-up?",
+      "opcoes": {
+        "A": "A cada 2 meses",
+        "B": "A cada 3 meses",
+        "C": "A cada 6 meses",
+        "D": "A cada 12 meses",
+        "E": "Somente quando sentir dor"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual a função do fio dental?",
+      "opcoes": {
+        "A": "Clarear os dentes",
+        "B": "Massagear a gengiva",
+        "C": "Remover restos de alimentos e placa bacteriana",
+        "D": "Substituir a escova de dentes",
+        "E": "Aumentar o brilho do esmalte"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual dente é popularmente chamado de 'siso'?",
+      "opcoes": {
+        "A": "Canino",
+        "B": "Incisivo lateral",
+        "C": "Primeiro molar",
+        "D": "Segundo pré-molar",
+        "E": "Terceiro molar"
+      },
+      "resposta": "E"
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é o nome da camada mais externa do dente?",
+      "opcoes": {
+        "A": "Polpa",
+        "B": "Dentina",
+        "C": "Esmalte",
+        "D": "Cemento",
+        "E": "Gengiva"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 8,
+      "pergunta": "A ortodontia trata principalmente de qual problema?",
+      "opcoes": {
+        "A": "Cárie",
+        "B": "Doença gengival",
+        "C": "Sensibilidade",
+        "D": "Desalinhamento dentário",
+        "E": "Bruxismo"
+      },
+      "resposta": "D"
+    },
+    {
+      "id": 9,
+      "pergunta": "O que é bruxismo?",
+      "opcoes": {
+        "A": "Inflamação da gengiva",
+        "B": "Hábito de ranger ou apertar os dentes",
+        "C": "Má formação óssea",
+        "D": "Perda de esmalte dentário",
+        "E": "Infecção bacteriana"
+      },
+      "resposta": "B"
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual vitamina é importante para a saúde dos ossos e dentes?",
+      "opcoes": {
+        "A": "Vitamina A",
+        "B": "Vitamina C",
+        "C": "Vitamina D",
+        "D": "Vitamina K",
+        "E": "Vitamina B12"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 11,
+      "pergunta": "O que é periodontite?",
+      "opcoes": {
+        "A": "Cárie profunda",
+        "B": "Inflamação superficial da gengiva",
+        "C": "Infecção grave da gengiva que pode afetar o osso de sustentação",
+        "D": "Fratura dentária",
+        "E": "Perda de esmalte dentário"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual exame radiográfico é utilizado para avaliar toda a arcada dentária?",
+      "opcoes": {
+        "A": "Periapical",
+        "B": "Interproximal",
+        "C": "Radiografia panorâmica",
+        "D": "Tomografia computadorizada",
+        "E": "Oclusal"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual é a principal função da saliva?",
+      "opcoes": {
+        "A": "Endurecer o esmalte",
+        "B": "Lubrificar, auxiliar na digestão e proteger contra bactérias",
+        "C": "Deixar os dentes mais brancos",
+        "D": "Produzir cálcio",
+        "E": "Fixar a língua"
+      },
+      "resposta": "B"
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual é o material mais utilizado em restaurações estéticas?",
+      "opcoes": {
+        "A": "Amálgama",
+        "B": "Ouro",
+        "C": "Resina composta",
+        "D": "Cimento de ionômero de vidro",
+        "E": "Porcelana"
+      },
+      "resposta": "C"
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual especialidade é responsável por implantes dentários?",
+      "opcoes": {
+        "A": "Ortodontia",
+        "B": "Odontopediatria",
+        "C": "Endodontia",
+        "D": "Implantodontia",
+        "E": "Periodontia"
+      },
+      "resposta": "D"
+    }
+  ]
+}
