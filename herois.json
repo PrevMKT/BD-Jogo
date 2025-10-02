@@ -1,0 +1,59 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Você, servidor super-herói, diante de uma missão difícil é...",
+      "opcoes": {
+        "A": "Forte como o Hulk",
+        "B": "Valente como a Mulher-Maravilha",
+        "C": "Persistente como o Capitão América",
+        "D": "Estratégico(a) como a Viúva Negra",
+        "E": "Sereno(a) como o Doutor Estranho"
+      }
+    },
+    {
+      "id": 2,
+      "pergunta": "Você, servidor super-herói, quando precisa tomar decisões é...",
+      "opcoes": {
+        "A": "Corajoso(a) como o Thor",
+        "B": "Prudente como a Vespa",
+        "C": "Determinado(a) como o Pantera Negra",
+        "D": "Confiante como a Capitã Marvel",
+        "E": "Justo(a) como a Tempestade"
+      }
+    },
+    {
+      "id": 3,
+      "pergunta": "Você, servidor super-herói, no trabalho em equipe é...",
+      "opcoes": {
+        "A": "O que motiva e inspira, como a Capitã Marvel",
+        "B": "O que apoia e fortalece, como o Falcão",
+        "C": "O que organiza e guia, como o Ciclope",
+        "D": "O que traz novas ideias, como o Homem de Ferro",
+        "E": "O que une todos, como a Mulher-Invisível"
+      }
+    },
+    {
+      "id": 4,
+      "pergunta": "Você, servidor super-herói, diante dos desafios do dia a dia é...",
+      "opcoes": {
+        "A": "Guerreiro(a) como o Aquaman",
+        "B": "Adaptável como a Mística",
+        "C": "Incansável como o Flash",
+        "D": "Aprendiz constante como o Homem-Aranha",
+        "E": "Solidário(a) como a Jean Grey"
+      }
+    },
+    {
+      "id": 5,
+      "pergunta": "Você, servidor super-herói, é movido principalmente por...",
+      "opcoes": {
+        "A": "Dedicação incansável, como o Superman",
+        "B": "Vontade de transformar vidas, como a Mulher-Maravilha",
+        "C": "Energia para nunca desistir, como o Capitão América",
+        "D": "Sabedoria para orientar, como a Feiticeira Escarlate",
+        "E": "Esperança de que sempre é possível melhorar, como o Lanterna Verde"
+      }
+    }
+  ]
+}
