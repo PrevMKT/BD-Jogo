@@ -7,52 +7,52 @@
         "A": "Forte como o Hulk",
         "B": "Valente como a Mulher-Maravilha",
         "C": "Persistente como o Capitão América",
-        "D": "Estratégico(a) como a Viúva Negra",
-        "E": "Sereno(a) como o Doutor Estranho"
+        "D": "Estratégico como a Viúva Negra",
+        "E": "Sereno como o Doutor Estranho"
       }
     },
     {
       "id": 2,
-      "pergunta": "Você, servidor super-herói, quando precisa tomar decisões é...",
+      "pergunta": "Você, servidor super-herói, ao tomar decisões é...",
       "opcoes": {
-        "A": "Corajoso(a) como o Thor",
+        "A": "Corajoso como o Thor",
         "B": "Prudente como a Vespa",
-        "C": "Determinado(a) como o Pantera Negra",
+        "C": "Determinado como o Pantera Negra",
         "D": "Confiante como a Capitã Marvel",
-        "E": "Justo(a) como a Tempestade"
+        "E": "Justo como a Tempestade"
       }
     },
     {
       "id": 3,
-      "pergunta": "Você, servidor super-herói, no trabalho em equipe é...",
+      "pergunta": "Você, servidor super-herói, em equipe é...",
       "opcoes": {
-        "A": "O que motiva e inspira, como a Capitã Marvel",
-        "B": "O que apoia e fortalece, como o Falcão",
-        "C": "O que organiza e guia, como o Ciclope",
-        "D": "O que traz novas ideias, como o Homem de Ferro",
-        "E": "O que une todos, como a Mulher-Invisível"
+        "A": "Quem inspira, como a Capitã Marvel",
+        "B": "Quem apoia, como o Falcão",
+        "C": "Quem organiza, como o Ciclope",
+        "D": "Quem inova, como o Homem de Ferro",
+        "E": "Quem une, como a Mulher-Invisível"
       }
     },
     {
       "id": 4,
-      "pergunta": "Você, servidor super-herói, diante dos desafios do dia a dia é...",
+      "pergunta": "Você, servidor super-herói, diante dos desafios é...",
       "opcoes": {
-        "A": "Guerreiro(a) como o Aquaman",
+        "A": "Guerreiro como o Aquaman",
         "B": "Adaptável como a Mística",
         "C": "Incansável como o Flash",
-        "D": "Aprendiz constante como o Homem-Aranha",
-        "E": "Solidário(a) como a Jean Grey"
+        "D": "Curioso como o Homem-Aranha",
+        "E": "Solidário como a Jean Grey"
       }
     },
     {
       "id": 5,
-      "pergunta": "Você, servidor super-herói, é movido principalmente por...",
+      "pergunta": "Você, servidor super-herói, é movido por...",
       "opcoes": {
-        "A": "Dedicação incansável, como o Superman",
-        "B": "Vontade de transformar vidas, como a Mulher-Maravilha",
-        "C": "Energia para nunca desistir, como o Capitão América",
-        "D": "Sabedoria para orientar, como a Feiticeira Escarlate",
-        "E": "Esperança de que sempre é possível melhorar, como o Lanterna Verde"
+        "A": "Dedicação, como o Superman",
+        "B": "Vontade de mudar, como a Mulher-Maravilha",
+        "C": "Energia para vencer, como o Capitão América",
+        "D": "Sabedoria, como a Feiticeira Escarlate",
+        "E": "Esperança, como o Lanterna Verde"
       }
     }
   ]
